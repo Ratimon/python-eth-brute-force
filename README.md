@@ -1,10 +1,10 @@
 
 ```sh
-poetry run python python_eth_zero_seeker/zero_seeker.py
+poetry run python python_eth_brute_force/zero_seeker.py
 ```
 
 ```sh
-poetry run python python_eth_zero_seeker/badcode.py
+poetry run python python_eth_brute_force/badcode.py
 ```
 we get:
 ```

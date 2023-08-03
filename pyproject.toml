@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "python-eth-zero-seeker"
+name = "python-eth-brute-force"
 version = "0.1.0"
 description = ""
 authors = ["Ratimon <ratixoxo@gmail.com>"]
 readme = "README.md"
-packages = [{include = "python_eth_zero_seeker"}]
+packages = [{include = "python_eth_brute_force"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"

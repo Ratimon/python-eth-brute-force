@@ -13,7 +13,7 @@ while True:
     contract_addr = encode_hex(mk_contract_address(addr, 0))
 
     if pattern.search(contract_addr):
-        print(f"Found vanity address: 0x{contract_addr}")
+        print(f"Found address: with badc0de 0x{contract_addr}")
         print("The Private key is:")
         print(encode_hex(private_key))
         break

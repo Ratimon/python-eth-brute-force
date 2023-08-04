@@ -1,7 +1,11 @@
+# Python Scripts to Brute Force
+
+## Zero Seeker
 
 ```sh
 poetry run python python_eth_brute_force/zero_seeker.py
 ```
+## Bad Code
 
 ```sh
 poetry run python python_eth_brute_force/badcode.py
